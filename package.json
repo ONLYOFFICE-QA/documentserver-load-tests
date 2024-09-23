@@ -32,7 +32,7 @@
     "cors": "^2.8.5",
     "cpx": "^1.5.0",
     "ejs": "^3.1.10",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "express-jwt": "^6.0.0",
     "express-ws": "^4.0.0",
     "jwt-simple": "^0.5.6",
